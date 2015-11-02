@@ -1,5 +1,3 @@
-
-
 ## jQuery Data & User Input ~ 26min
 
 These videos are also available as a single [continuous playlist from the link here](https://www.youtube.com/watch?v=lGels5KkTQ0&list=PLj148bJp5wiywkAEReCK_hX9cLCeJRBdb). 
