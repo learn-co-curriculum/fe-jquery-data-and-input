@@ -9,4 +9,4 @@ These videos are also available as a single [continuous playlist from the link h
 [Slides - jQuery Data and User Input](https://docs.google.com/presentation/d/1cOCaIWSy-DiX7nBKh5QP7Fp-r2sNsGqUfYG7zvWDNdc/edit?usp=sharing)
 
 [Slides - Validation & Regular Expressions](https://docs.google.com/presentation/d/13w3gW7mH1bnvbEetjMf-JYeP2UUzgv2N-tQm-Hn8Zuo/edit?usp=sharing)
-<a href='https://learn.co/lessons/fe-jquery-data-and-input' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-jquery-data-and-input' title='jQuery Data & User Input ~ 26min'>jQuery Data & User Input ~ 26min</a> on Learn.co and start learning to code for free.</p>
